@@ -1,0 +1,6 @@
+wheel
+jaseci=1.3.4.8
+jaseci-serv
+jaseci-kit
+jaseci-ai-kit
+jaseci_ai_kit
