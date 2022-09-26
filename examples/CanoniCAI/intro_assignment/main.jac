@@ -1,4 +1,4 @@
-import {*} with "./tesla_ai.jac";
+import {*} with "tesla_ai.jac";
 
 
 node faq_root:cai_state {
@@ -30,7 +30,7 @@ node faq_root:cai_state {
     }
 }
 
-node faq_state {
+node faq_state:cai_state {
     has question;
     has answer;
     can nlg {
